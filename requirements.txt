@@ -1,0 +1,2 @@
+apt install open-jdk-17-jdk 
+apt install openjdk-17-jre
